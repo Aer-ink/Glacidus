@@ -1,0 +1,139 @@
+# Items
+item.grapes.name=Uvas
+item.eukeite.name=Eukeite
+item.crysium.name=Crysium
+item.raw_porcali_meat.name=Carne Cruda de Porcali
+item.grilled_porcali_meat.name=Porcali a la Parrilla
+item.glacidite_fragment.name=Fragmento de Glacidite
+item.black_saddle.name=Silla de Montar Negra
+item.raisins.name=Pasas
+item.grape_juice.name=Jugo de Uva
+
+# Tools
+item.eukeite_hoe.name=Azada de Eukeite
+item.eukeite_pickaxe.name=Pico de Eukeite
+item.eukeite_axe.name=Hacha de Eukeite
+item.eukeite_shovel.name=Pala de Eukeite
+item.eukeite_sword.name=Espada de Eukeite
+item.antinatric_hoe.name=Azada de Antinatric
+item.antinatric_pickaxe.name=Pico de Antinatric
+item.antinatric_axe.name=Hacha de Antinatric
+item.antinatric_shovel.name=Pala de Antinatric
+item.antinatric_sword.name=Espada de Antinatric
+item.glacidite_hoe.name=Azada de Glacidite
+item.glacidite_pickaxe.name=Pico de Glacidite
+item.glacidite_axe.name=Hacha de Glacidite
+item.glacidite_shovel.name=Pala de Glacidite
+item.glacidite_sword.name=Espada de Glacidite
+item.underground_hoe.name=Azada Subterranea
+item.underground_pickaxe.name=Pico Subterraneo
+item.underground_axe.name=Hacha Subterranea
+item.underground_shovel.name=Pala Subterranea
+item.underground_sword.name=Espada Subterranea
+
+# Blocks
+tile.small_crystal.name=Cristal Pequeño
+tile.crysial_flower.name=Flor de Cristal
+tile.pulphorus_flower.name=Flor Pulphorus
+tile.aurantiacus_flower.name=Flor Aurantiacus
+tile.solegia_flower.name=Flor Solegia
+tile.flavula_flower.name=Flor Flavula
+tile.dead_lumicia.name=Dead Lumicia Stalk
+tile.lumicia_sapling.name=Brote de Lumicia
+tile.lumicia_tallgrass.name=Hierva Lumicia
+tile.lumicia_tallgrass.name=Hierva Lumicia Doble
+tile.glacidus_portal.name=Bloque de Portal Glacidus
+tile.lumicia_grass.name=Bloque de Hierva Lumicia
+tile.lumicia_dirt.name=Tierra Lumicia
+tile.frozen_antinatric_stone.name=Piedra Antinatric Congelada
+tile.thawed_antinatric_stone.name=Piedra Antinatric Descongelada
+tile.frozen_antinatric_brick.name=Ladrillo Antinatric Congelado
+tile.thawed_antinatric_brick.name=Ladrillo Antinatric Descongelado
+tile.glacium.name=Glacium
+tile.underground_log.name=Tronco Subterraneo
+tile.underground_planks.name=Madera Subterranea
+tile.underground_leaves.name=Hojas Subterraneas
+tile.lumicia_vine.name=Enradera Lumicia
+tile.lumicia_grape_vine.name=Enrredadera de Uvas de Lumicia
+tile.glacidite_ore.name=Mineral de Glacidite
+tile.eukeite_ore.name=Mineral de Eukeite 
+tile.crysium_ore.name=Mineral de Crysium
+tile.opesium_ore.name=Mineral de Opesium
+tile.underground_door.name=Puerta Subterranea
+tile.underground_trapdoor.name=Trampilla Subterranea
+tile.underground_bookshelf.name=Librero Subterraneo
+tile.underground_ladder.name=Escalera de Mano Subterranea
+tile.underground_sapling.name=Brote Subterraneo
+tile.underground_stairs.name=Escaleras Subterraneas
+tile.underground_fence.name=Valla Subterranea
+underground_slab.name=Losa Subterranea
+tile.underground_double-slab.name=Losa Doble Subterranea
+tile.frozen_antinatric_stairs.name=Escaleras de Antinatric Congeladas
+frozen_antinatric_slab.name=Losa de Antanatric Congelada
+tile.frozen_antinatric_double_slab.name=Losa Doble de Antanatric Congelada
+tile.frozen_antinatric_brick_stairs.name=Escaleras de Antinatric Congeladas
+frozen_antinatric_brick_slab.name=Losa de Antinatric Congelada
+tile.frozen_antinatric_brick_double_slab.name=Losa Doble de Ladrillo Antinatric Congelada
+tile.thawed_antinatric_stairs.name=Escalera de Antinatric Descongelada
+thawed_antinatric_slab.name=Losa de Antinatric Descongelada
+tile.thawed_antinatric_double-slab.name=Losa Doble de Antinatric Descongelada
+tile.crystal_block.name=Bloque de Crystal
+tile.glacidus_portal_frame.name=Marco de Portal Glacidus
+tile.glacidus_booster.name=Booster Pequeño
+
+# Entities
+entity.porcali.name=Porcali
+entity.glimmer.name=Glimmer
+entity.drop_spider.name=Drop Spider
+entity.merialces.name=Merialces
+
+# Advancements
+advancements.glacidus.root.title=Glacidus
+advancements.glacidus.enter=Hace Frio Aqui...
+advancements.glacidus.middle_layer=No Juzgues un Libro por su Portada
+advancements.glacidus.get_wood=Nuevo Mundo, Misma Rutina
+advancements.glacidus.glowey_flowers=Flores Glowey!
+advancements.glacidus.bounty_hunter=Cazarrecompensas
+advancements.glacidus.bombs_away=Despegar!
+advancements.glacidus.glacidite=Peligroso, pero lo vale!
+advancements.glacidus.the_core=El Nucleo...
+advancements.glacidus.health_freak=Health Freak!
+advancements.glacidus.so_many_uses=Demasiados Usos...
+advancements.glacidus.bred_alien_mob=Extraterrestre!
+
+# Advancement Descriptions
+advancements.glacidus.root.desc=La dimensión Glacidus.
+advancements.glacidus.enter.desc=Entra al mundo Glacidus.
+advancements.glacidus.middle_layer.desc=Encuentra vida herborea.
+advancements.glacidus.get_wood.desc=Golpea un árbol subterraneo y consigue madera.
+advancements.glacidus.glowey_flowers.desc=Encuentra las 5 flores.
+advancements.glacidus.bounty_hunter.desc=Mata un mob del planeta.
+advancements.glacidus.bombs_away.desc=Encuentra un Booster y sal del planeta.
+advancements.glacidus.glacidite.desc=Encuentra Glacidite cerca de una poza de Glacium.
+advancements.glacidus.the_core.desc=Llega al centro del planeta.
+advancements.glacidus.health_freak.desc=Bebe jugo de Uvas.
+advancements.glacidus.so_many_uses.desc=Encuentra otra manera de usar las uvas.
+advancements.glacidus.bred_alien_mob.desc=Cria un animal alienigena.
+
+# Creative Tabs Names
+itemGroup.glacidus.blocks.tab=Bloques de Glacidus
+itemGroup.glacidus.items.tab=Objetos de Glacidus
+itemGroup.glacidus.tools.tab=Herramientas de Glacidus
+
+# Subtitles
+subtitles.mob.porcali.say=Gruñido de Porcali
+subtitles.mob.porcali.hurt=Porcali herido
+subtitles.mob.porcali.death=Muerte de Porcali
+subtitles.mob.merialces.say=Merialces grumbles
+subtitles.mob.merialces.hurt=Merialces herido
+subtitles.mob.merialces.death=Muerte de Merialces
+subtitles.block.glacium.ambient=Glacium agrietandose
+subtitles.block.glacium.pop=Glacium pops
+subtitles.block.glacidus_booster.idle=Booster wubs
+subtitles.block.glacidus_booster.launch=Booster activado
+subtitles.block.glacidus_portal.idle=Chasqueo de Portal
+subtitles.random.echolocation_discovery=Regreso de ecolocación
+subtitles.random.echolocation_searching=Murmullo de ecolocación
+
+# Death messages
+death.attack.glacium_frosted=%1$s Murió de hipotermia
